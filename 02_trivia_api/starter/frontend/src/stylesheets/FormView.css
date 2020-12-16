@@ -1,0 +1,19 @@
+.form-view > label {
+  padding: 0px 0px 10px;
+}
+
+#add-form,#add-form-cat {
+	margin:50px auto;
+	text-align: center;
+	width:50%;
+	background:yellow;
+	border-radius:10px;
+}
+
+#add-form label,#add-form-cat label{
+	margin-right:10px;
+}
+#message,#message1{
+	font-size:1.2 em;
+	color:blue;
+}
